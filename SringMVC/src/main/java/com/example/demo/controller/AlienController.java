@@ -12,7 +12,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.example.demo.models.Alien;
 import com.example.demo.repository.AlienRepo;
-
 @RestController
 public class AlienController {
 	
